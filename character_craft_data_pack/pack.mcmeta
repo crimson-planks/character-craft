@@ -1,2 +1,6 @@
 {
+    "pack": {
+        "pack_format": 13,
+        "description": "Data pack for character craft"
+    }
 }
