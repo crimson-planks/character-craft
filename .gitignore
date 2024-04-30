@@ -1,0 +1,8 @@
+**.DS_Store
+*.DS_Store
+.DS_Store
+en_us.json
+block_list.json
+block_object.json
+block_translations.json
+character_craft_data_pack/data/minecraft/loot_tables/**

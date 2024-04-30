@@ -1,17 +1,1 @@
-{
-    "type": "block",
-    "pools": 
-    [
-        {
-            "entries": 
-            [
-                {
-                "type": "item",
-                "name": "bat_spawn_egg",
-                "functions": [{"function": "set_nbt","tag": "{CustomModelData:71}"}]
-                }
-            ],
-            "rolls": 1
-        }
-    ]
-}
+{"type": "block", "pools": [{"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 71, "custom_name": "{\"text\":\"G\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 82, "custom_name": "{\"text\":\"R\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 65, "custom_name": "{\"text\":\"A\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 83, "custom_name": "{\"text\":\"S\"}", "custom_data": {"letter": true}}}]}], "rolls": 2}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 66, "custom_name": "{\"text\":\"B\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 76, "custom_name": "{\"text\":\"L\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 79, "custom_name": "{\"text\":\"O\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 67, "custom_name": "{\"text\":\"C\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}, {"entries": [{"type": "item", "name": "recovery_compass", "functions": [{"function": "set_components", "components": {"custom_model_data": 75, "custom_name": "{\"text\":\"K\"}", "custom_data": {"letter": true}}}]}], "rolls": 1}]}

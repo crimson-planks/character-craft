@@ -1,0 +1,1 @@
+#detect if crafting table is crafted
