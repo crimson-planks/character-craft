@@ -1,0 +1,1 @@
+command_file=open("character_craft_data_pack/data/character_craft/functions/check_letter_table")
